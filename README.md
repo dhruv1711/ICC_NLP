@@ -1,1 +1,2 @@
 # ICC_NLP
+This was a project I did as part of the Global Leadership Program (GLP) at the University of Tokyo in which I wrote a paper titled "Effective Analysis of Relevant Legal Material for War Crime Prosecutions using Natural Language Processing" under the guidance of Prof. Kiichi Fujiwara. The repository contains the code and the material used in the project. The paper can be found at https://drive.google.com/file/d/1VfLBsM6dsRh3tJh5wGCPWbapFtHh0Had/view?usp=sharing.
